@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/AndreCampeloR">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=AndreCampeloR&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCampeloR&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCampeloR&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
  </br>
   <div style="display: inline_block"><br>

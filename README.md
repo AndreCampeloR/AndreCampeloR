@@ -9,7 +9,7 @@
 </br>
 <div style="display: inline_block"><br>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,sass,cs
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,sass,cs,mysql
 )](https://skillicons.dev)
 </div>
 
